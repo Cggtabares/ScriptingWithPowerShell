@@ -1,0 +1,334 @@
+"Name","Company","Description"
+"AdobeCollabSync","Adobe Systems Incorporated","Acrobat Collaboration Synchronizer 24.5"
+"AdobeCollabSync","Adobe Systems Incorporated","Acrobat Collaboration Synchronizer 24.5"
+"AggregatorHost",,
+"ai","Microsoft Corporation","Artificial Intelligence (AI) Host for the Microsoft? Windows? Operating System and Platform x64."
+"AnalyticsSrv","Citrix Systems, Inc.","Citrix Analytics Server"
+"ApMsgFwd",,
+"ApntEx","ALPSALPINE CO., LTD.","AlpsAlpine Pointing-device Driver for Windows"
+"Apoint","ALPSALPINE Co., Ltd.","AlpsAlpine Pointing-device Driver"
+"ApplicationFrameHost","Microsoft Corporation","Application Frame Host"
+"ApRemote","ALPSALPINE Co., Ltd.","ApRemote"
+"armsvc",,
+"audiodg",,
+"AuthManSvr","Citrix Systems, Inc.","Citrix Authentication Manager"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"chrome","Google LLC","Google Chrome"
+"concentr","Citrix Systems, Inc.","Citrix Connection Center"
+"conhost",,
+"conhost","Microsoft Corporation","Console Window Host"
+"conhost","Microsoft Corporation","Console Window Host"
+"conhost",,
+"conhost",,
+"conhost",,
+"conhost",,
+"conhost",,
+"conhost",,
+"conhost",,
+"conhost","Microsoft Corporation","Console Window Host"
+"CrossDeviceService","Microsoft Corporation","Microsoft Cross Device Service"
+"csrss",,
+"csrss",,
+"ctfmon",,
+"DDVCollectorSvcApi",,
+"DDVDataCollector",,
+"DDVRulesProcessor",,
+"Dell.DCF.UA.Bradbury.API.SubAgent",,
+"Dell.TechHub",,
+"Dell.TechHub.Analytics.SubAgent",,
+"Dell.TechHub.DataManager.SubAgent",,
+"Dell.TechHub.Diagnostics.SubAgent",,
+"Dell.TechHub.Instrumentation.SubAgent",,
+"Dell.TechHub.Instrumentation.UserProcess",,
+"dllhost","Microsoft Corporation","COM Surrogate"
+"dllhost","Microsoft Corporation","COM Surrogate"
+"dptf_helper","Intel Corporation","Intel(R) Dynamic Platform and Thermal Framework Utility Application"
+"dwm",,
+"esif_uf",,
+"explorer","Microsoft Corporation","Windows Explorer"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"firefox","Mozilla Corporation","Firefox"
+"fontdrvhost",,
+"fontdrvhost",,
+"ftnlsv",,
+"ftscanmgrhv",,
+"gpscript",,
+"gpupdate",,
+"HelpPane","Microsoft Corporation","Microsoft Help and Support"
+"hidfind","ALPSALPINE  Co., Ltd.","AlpsAlpine Pointing-device Driver"
+"HidMonitorSvc",,
+"horizon_client_service",,
+"HostControlService",,
+"HostStorageService",,
+"IAStorIcon","Intel Corporation","IAStorIcon"
+"iceBar","ComputerTalk Technology Inc.","iceBar"
+"Idle",,
+"igfxCUIService",,
+"igfxEM","Intel Corporation","igfxEM Module"
+"IntelCpHDCPSvc",,
+"IntelCpHeciSvc",,
+"IntelWirelessDockManager","Intel Corporation","Intel? Wireless Dock Manager"
+"jhi_service",,
+"Kaseya.AdminEndpoint","Kaseya International Limited","Kaseya.AdminEndpoint.exe"
+"KaseyaLiveConnect","Kaseya International Limited","Live Connect"
+"Lightshot","Skillbrains","Lightshot"
+"LMIGuardianSvc",,
+"LMS",,
+"LocationNotificationWindows","Microsoft Corporation","Location Notification"
+"LockApp","Microsoft Corporation","LockApp.exe"
+"LsaIso",,
+"lsass",,
+"lync","Microsoft Corporation","Skype for Business"
+"lynchtmlconv","Microsoft Corporation","Microsoft Lync"
+"Memory Compression",,
+"Microsoft.AAD.BrokerPlugin","Microsoft Corporation","AAD token broker plugin"
+"Microsoft.SharePoint","Microsoft Corporation","Microsoft SharePoint"
+"MpDefenderCoreService",,
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedge","Microsoft Corporation","Microsoft Edge"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"msedgewebview2","Microsoft Corporation","Microsoft Edge WebView2"
+"MsMpEng",,
+"MSPCManagerService",,
+"msteams","Microsoft Corporation","Microsoft Teams (personal)"
+"ms-teams","Microsoft Corporation","Microsoft Teams"
+"ms-teams","Microsoft Corporation","Microsoft Teams"
+"mstsc","Microsoft Corporation","Remote Desktop Connection"
+"netsetman",,
+"NisSrv",,
+"Notepad","Microsoft Corporation","Notepad.exe"
+"nsmservice",,
+"OfficeClickToRun",,
+"OneApp.IGCC.WinService",,
+"OneDrive","Microsoft Corporation","Microsoft OneDrive"
+"ONENOTE","Microsoft Corporation","Microsoft OneNote"
+"ONENOTEM","Microsoft Corporation","Send to OneNote Tool"
+"OpenConsole","Microsoft Corporation","OpenConsole.exe"
+"openvpn-gui","OpenVPN GUI","OpenVPN GUI for Windows"
+"openvpnserv",,
+"OUTLOOK","Microsoft Corporation","Microsoft Outlook"
+"powershell",,
+"powershell","Microsoft Corporation","Windows PowerShell"
+"powershell_ise","Microsoft Corporation","Windows PowerShell ISE"
+"PrivacyIconClient","Intel Corporation","Intel(R) Management and Security Status"
+"QtWebEngineProcess",,
+"RAVBg64","Realtek Semiconductor","HD Audio Background Process"
+"RAVBg64",,
+"RAVBg64",,
+"Receiver","Citrix Systems, Inc.","Citrix Workspace Application"
+"redirector","Citrix Systems, Inc.","Citrix FTA, URL Redirector"
+"Registry",,
+"RtkAudioService64",,
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"RuntimeBroker","Microsoft Corporation","Runtime Broker"
+"SDXHelper","Microsoft Corporation","Microsoft Office SDX Helper"
+"SearchHost","Microsoft Corporation",""
+"SearchIndexer",,
+"Secure System",,
+"SecurityHealthService",,
+"SecurityHealthSystray","Microsoft Corporation","Windows Security notification icon"
+"SelfService","Citrix Systems, Inc.","Citrix Workspace"
+"SelfServicePlugin","Citrix Systems, Inc.","Citrix Workspace"
+"services",,
+"ServiceShell",,
+"ShellExperienceHost","Microsoft Corporation","Windows Shell Experience Host"
+"sihost","Microsoft Corporation","Shell Infrastructure Host"
+"smartscreen","Microsoft Corporation","Windows Defender SmartScreen"
+"smss",,
+"ssh-agent",,
+"StartMenuExperienceHost","Microsoft Corporation","Windows Start Experience Host"
+"SupportAssistAgent",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost",,
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost",,
+"svchost","Microsoft Corporation","Host Process for Windows Services"
+"svchost",,
+"System",,
+"SystemSettingsBroker","Microsoft Corporation","System Settings Broker"
+"TabTip",,
+"taskhostw","Microsoft Corporation","Host Process for Windows Tasks"
+"taskhostw","Microsoft Corporation","Host Process for Windows Tasks"
+"TbtP2pShortcutService",,
+"TextInputHost","Microsoft Corporation",""
+"ThunderboltService",,
+"UcMapi","Microsoft Corporation","Skype for Business"
+"uhssvc",,
+"unsecapp",,
+"UserOOBEBroker","Microsoft Corporation","User OOBE Broker"
+"UshUpgradeService",,
+"VIPAppService",,
+"vmware-usbarbitrator64",,
+"vmwetlm",,
+"vmwsprrdpwks",,
+"WavesSysSvc64",,
+"wfcrun32","Citrix Systems, Inc.","Citrix Connection Manager"
+"Widgets","Microsoft Corporation",""
+"WidgetService","Microsoft Corporation","WidgetService.exe"
+"WindowsTerminal","Microsoft Corporation","WindowsTerminal.exe"
+"wininit",,
+"winlogon",,
+"wlanext",,
+"WmiPrvSE",,
+"WMIRegistrationService",,
+"WUDFHost",,
+"WUDFHost",,
