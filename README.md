@@ -10,7 +10,7 @@ This repository contains PowerShell scripts developed while working through "Pow
 
 Scripts based on "PowerShell for Sysadmins" by Adam Bertram.
 
-##Repository Information
+## Repository Information
 
 All Repo is a personal interpretation of the Book's Chapters, Which are the Following:
 
@@ -37,7 +37,7 @@ Scripts are organized by Project and utility.
 
 ## Examples
 
-*   Get user info: `.\New-Employee.ps1 -FirstName 'johndoe' -LastName 'Doe' -Department 'IT' -EmployeeNumber 'EmployeeNumber`
+*   New Employee info: `.\New-Employee.ps1 -FirstName 'johndoe' -LastName 'Doe' -Department 'IT' -EmployeeNumber 'EmployeeNumber`
 
 ## Disclaimer
 
